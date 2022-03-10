@@ -10,7 +10,6 @@
   "description": "[![Actions Status](https://github.com/shaolanx/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/shaolanx/frontend-project-lvl1/actions)",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/shaolanx/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/shaolanx/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/shaolanx/frontend-project-lvl1#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
 }
