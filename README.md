@@ -6,3 +6,4 @@
 <a href="https://asciinema.org/a/476075" target="_blank"><img src="https://asciinema.org/a/476075.svg" /></a>
 # How working Brain Calc:
 <a href="https://asciinema.org/a/476074" target="_blank"><img src="https://asciinema.org/a/476074.svg" /></a>
+# How working Brain GCD:
