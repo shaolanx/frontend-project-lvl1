@@ -1,5 +1,7 @@
 import readlineSync from 'readline-sync';
 
+// const mainMessage = 'Answer "yes" if the number is even, otherwise answer "no".';
+
 const brainEven = () => {
   console.log('Welcome to the Brain Games!');
   const userName = readlineSync.question('May I have your name?\n');
@@ -23,5 +25,9 @@ const brainEven = () => {
     }
   }
 };
+
+// const brainEven = () => {
+//   return gamesEngine(mainMessage, buildRound);
+// };
 
 export default brainEven;
