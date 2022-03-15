@@ -7,3 +7,4 @@
 # How working Brain Calc:
 <a href="https://asciinema.org/a/476074" target="_blank"><img src="https://asciinema.org/a/476074.svg" /></a>
 # How working Brain GCD:
+<a href="https://asciinema.org/a/476787" target="_blank"><img src="https://asciinema.org/a/476787.svg" /></a>
