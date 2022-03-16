@@ -4,7 +4,9 @@
 ![example workflow](https://github.com/shaolanx/frontend-project-lvl1/actions/workflows/make-lint.yml/badge.svg)
 ___
 <h1 align='center';><span color="yellow" >B</span>rain Games</h1>
+
 ___
+
 <h2 align='center'>Game setup:</h2>
 
 - Clone repository;
