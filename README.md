@@ -6,6 +6,7 @@ ___
 <h1 align='center';><span color="yellow" >B</span>rain Games</h1>
 ___
 <h2 align='center'>Game setup:</h2>
+
 - Clone repository;
 - Execute the command `make install`;
 - To install a package from the operating system, use the command `npm link`.
