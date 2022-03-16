@@ -20,6 +20,4 @@ const gamesEngine = (mainMessage, buildRound) => {
   console.log(`Congratulations, ${name}!`);
 };
 
-const randomNumber = (min, max) => Math.floor(Math.random() * (max - min) + min);
-
-export { randomNumber, gamesEngine };
+export default gamesEngine;

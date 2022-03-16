@@ -1,4 +1,5 @@
-import { randomNumber, gamesEngine } from '../index.js';
+import gamesEngine from '../index.js';
+import randomNumber from '../get-randdom.js';
 
 const mainMessage = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 

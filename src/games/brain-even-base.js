@@ -1,8 +1,9 @@
-import { randomNumber, gamesEngine } from '../index.js';
+import gamesEngine from '../index.js';
+import randomNumber from '../get-randdom.js';
 
 const mainMessage = 'Answer "yes" if the number is even, otherwise answer "no".';
 
-const getEven = (num) => {
+const checkForEven = (num) => {
   if (num % 2 === 0) {
     return true;
   }
@@ -12,7 +13,7 @@ const getEven = (num) => {
 const buildRound = () => {
   const randomNum = randomNumber(1, 100);
   const question = `${randomNum}`;
-  const rightAnswer = getEven(randomNum) ? 'yes' : 'no';
+  const rightAnswer = checkForEven(randomNum) ? 'yes' : 'no';
   return [question, rightAnswer];
 };
 

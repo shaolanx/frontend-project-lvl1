@@ -1,4 +1,5 @@
-import { randomNumber, gamesEngine } from '../index.js';
+import gamesEngine from '../index.js';
+import randomNumber from '../get-randdom.js';
 
 const mainMessage = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
