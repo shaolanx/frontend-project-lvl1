@@ -5,6 +5,8 @@
 ___
 <h1 align='center';><span color="yellow" >B</span>rain Games</h1>
 
+'Brain-games' includes five games to develop arithmetic skills. The player has to answer three questions correctly, in case of an error the game is stopped.
+
 ___
 
 <h2 align='center'>Game setup:</h2>
